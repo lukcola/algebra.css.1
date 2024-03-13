@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    font-size: 32px;
+}
+
+p {
+    color: blue;
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+    color: purple;
+}
+
+.li_1 {
+    color: aqua;
+}
+
+.li_2 {
+    color: yellow;
+}
+
+.li_3 {
+    color: green;
+}
